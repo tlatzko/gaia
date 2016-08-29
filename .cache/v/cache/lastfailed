@@ -1,0 +1,4 @@
+{
+  "src/ifgsim/setup.py": true, 
+  "src/ifgsim/tests/test_ifgsim.py": true
+}
